@@ -18,7 +18,7 @@ def search(list,n):
 
 
 list=[12,33,44,55,66,77]
-result=search(list,77)
+result=search(list,33)
 if result:
    print("found on pos",pos+1)
 else:

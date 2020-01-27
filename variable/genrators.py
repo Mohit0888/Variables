@@ -6,6 +6,6 @@ def a():
     yield 4
 
 obj = a()
-
-for i in obj:
-    print(i)
+print(obj)
+#for i in obj:
+#    print(i)

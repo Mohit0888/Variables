@@ -9,7 +9,7 @@ class B:
         print("World");
 
 class C:
-    def print(type):
+    def print(self,type):
         type.execute();
 
 objC= C();

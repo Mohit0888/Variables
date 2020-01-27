@@ -2,7 +2,7 @@ class A:
 
     def __init__(self):
         self.a=1;
-        self.b=2;
+        self.b=0;
 
     def aa(self):
         try:

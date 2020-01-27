@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ae66ad0e-2a8a-4805-983a-ac8d1dcbf566" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheeritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheeritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/binarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duckTypeing.py" beforeDir="false" afterPath="$PROJECT_DIR$/duckTypeing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptionhandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/exceptionhandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genrators.py" beforeDir="false" afterPath="$PROJECT_DIR$/genrators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiThreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiThreading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +39,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.binarySearch">
-    <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.multipleGenratorFunctions">
+    <configuration name="assretion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarySearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assretion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="duckTypeing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="customException" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duckTypeing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customException.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exceptionhandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="genrator2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionhandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genrator2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linearSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multipleGenratorFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linearSearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multipleGenratorFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiThreading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="withStatementExaple3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="variable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiThreading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/withStatementExaple3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binarySearch" />
-        <item itemvalue="Python.linearSearch" />
-        <item itemvalue="Python.multiThreading" />
-        <item itemvalue="Python.exceptionhandling" />
-        <item itemvalue="Python.duckTypeing" />
+        <item itemvalue="Python.multipleGenratorFunctions" />
+        <item itemvalue="Python.withStatementExaple3" />
+        <item itemvalue="Python.assretion" />
+        <item itemvalue="Python.genrator2" />
+        <item itemvalue="Python.customException" />
       </list>
     </recent_temporary>
   </component>
@@ -177,38 +181,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1308" height="125" key="GridCell.Tab.0.bottom" timestamp="1579696654697">
+    <state width="1308" height="121" key="GridCell.Tab.0.bottom" timestamp="1580107459414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579696654697" />
-    <state width="1308" height="125" key="GridCell.Tab.0.center" timestamp="1579696654697">
+    <state width="1308" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580107459414" />
+    <state width="1308" height="121" key="GridCell.Tab.0.center" timestamp="1580107459414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579696654697" />
-    <state width="1308" height="125" key="GridCell.Tab.0.left" timestamp="1579696654697">
+    <state width="1308" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580107459414" />
+    <state width="1308" height="121" key="GridCell.Tab.0.left" timestamp="1580107459414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579696654697" />
-    <state width="1308" height="125" key="GridCell.Tab.0.right" timestamp="1579696654697">
+    <state width="1308" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580107459414" />
+    <state width="1308" height="121" key="GridCell.Tab.0.right" timestamp="1580107459414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579696654697" />
-    <state width="1308" height="204" key="GridCell.Tab.1.bottom" timestamp="1579696082265">
+    <state width="1308" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580107459414" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1579850363947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579696082265" />
-    <state width="1308" height="204" key="GridCell.Tab.1.center" timestamp="1579696082264">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579850363947" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1579850363946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579696082264" />
-    <state width="1308" height="204" key="GridCell.Tab.1.left" timestamp="1579696082264">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579850363946" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1579850363946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579696082264" />
-    <state width="1308" height="204" key="GridCell.Tab.1.right" timestamp="1579696082264">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579850363946" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1579850363946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579696082264" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579850363946" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1579584038522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
